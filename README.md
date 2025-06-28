@@ -51,9 +51,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeinabunyambane&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeinabu Nyambane&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinabunyambane&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeinabu Nyambane&theme=tokyonight" />
 </p>
 
 ---
